@@ -14,5 +14,5 @@ if(!($x and $y)){
  echo "Verdadero";
 }else echo "Falso";
 
-
+echo "<br>Ya esta funcionando en casa!";
 ?>
